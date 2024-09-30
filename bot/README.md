@@ -1,4 +1,4 @@
-<h1 align="center">Telegram-bot Test Friend Good Bot
+<h1 align="center">Telegram-bot Friend Good Bot
 
 [![Telegram URL](https://www.dampftbeidir.de/mediafiles/tpl/icon-telegram.png)](https://t.me/tets_friend_good_bot) 
 </h1>
